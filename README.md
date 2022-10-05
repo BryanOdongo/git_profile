@@ -225,21 +225,27 @@
       <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yusuf-link/">
 			 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
       </a>
+       &emsp;
       <a style="margin-left: 10px;" target="_blank" href="https://github.com/yusufie">
 		   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
       </a>
+       &emsp;
 		  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19926018/yusufie">
 			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
       </a>
+       &emsp;
 	    <a style="margin-left: 10px;" target="_blank" href="https://www.google.com">
 			 <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
       </a>
+       &emsp;
       <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com">
 			 <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
       </a>
+       &emsp;
 		  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com">
 			 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
       </a>
+       &emsp;
 		  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com">
 			 <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
       </a>
