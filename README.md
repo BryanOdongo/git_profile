@@ -261,7 +261,7 @@
 
   <p>Have a Smiley Day...😆 :</p>
   <a style="" target="_blank" href="https://readme-jokes.vercel.app/api">
-		<img src="https://readme-jokes.vercel.app/api" >
+		<img src="https://readme-jokes.vercel.app/api?bgColor=%23173c7c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2356ba0" >
   </a>
   <br>
   <br>
