@@ -267,10 +267,9 @@
   <img src='https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg'>
 
 </h3>
-<br>
 
 <a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 </a>
 <br>
 
@@ -282,7 +281,6 @@
   </p>
 </h2>
 
------
 Credits: [Yusufie](https://github.com/yusufie)
 
 Last Edited on: 28/09/2022
