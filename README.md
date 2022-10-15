@@ -201,9 +201,7 @@
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufie&theme=algolia&bg_color=050F2C&date_format=M%20j%5B%2C%20Y%5D" alt="yusufie" />
   <br />
-  <br /> 
-
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=yusufie&theme=onestar&no-frame=false&column=3&row=1" alt="trophy"/>
+  <br />
 
 </div>
 
