@@ -281,20 +281,9 @@
 <h2>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%FFFFFF&size=16&duration=5000&lines=Support+Me+By+Starring+⭐+Some+Of+My+Repositories" />
+      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%FFFFFF&size=16&duration=7000&lines=Support+Me+By+Starring+⭐+My+Repositories+👍+Thanks!" />
     </a>
   </p>
-  
-  <p align='center'>
-    <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%FFFFFF&size=20&duration=5000&lines=Thank+You+Very+Much!" />
-    </a>
-  </p>
-
 </h2>
 
 -----
