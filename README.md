@@ -195,7 +195,7 @@
   <br />
   <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufie&theme=algolia" alt="Yusufie Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufie&theme=algolia&card_width=500" alt="Yusufie Top Languages"/>
   <br />
   <br />
 
