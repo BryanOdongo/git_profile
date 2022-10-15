@@ -26,10 +26,7 @@
 - 💚 I’m available for freelancing.
 
 - <p>
-    <a target="_blank" align="center">
-     <img align="left" height="20" width="30" alt="GIF" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif">
-    </a> 
-    I’m currently learning Reactjs & React-Native 
+    ✍️ I’m currently learning Reactjs & React-Native 
     <a href="https://reactjs.org/" target="blank" style="color:yellow">React</a>
   </p>
 
@@ -276,10 +273,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 <br>
-<br>
 
 <h2>
-  <p align="center">
+  <p align="left">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%FFFFFF&size=16&duration=7000&lines=Support+Me+By+Starring+⭐+My+Repositories+👍+Thanks!" />
     </a>
