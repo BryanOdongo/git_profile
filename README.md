@@ -149,17 +149,13 @@
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="30"> 
     Github Stats
   </h2>
+   
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufie&theme=algolia&bg_color=050F2C&date_format=M%20j%5B%2C%20Y%5D" alt="yusufie" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufie&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=58A6FF&custom_title=My%20GitHub%20Stats&theme=algolia&text_color=FFFFFF&bg_color=050F2C" alt="Yusufie Github Stats">
   <br />
   <br />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufie&theme=algolia&card_width=500" alt="Yusufie Top Languages"/>
-  <br />
-  <br />
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufie&theme=algolia&bg_color=050F2C&date_format=M%20j%5B%2C%20Y%5D" alt="yusufie" />
-  <br />
   <br />
 
 </div>
