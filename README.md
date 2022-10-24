@@ -177,32 +177,32 @@
 
 </h3>
 
-<p align="center">
+<p align="center" >
   <div align="center"  class="icons-social" style="margin-left: 10px;">
       <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yusuf-link/">
 			 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
       </a>
-       &emsp;
-      <a style="margin-left: 10px;" target="_blank" href="https://github.com/yusufie">
-		   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-      </a>
-       &emsp;
 		  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19926018/yusufie">
 			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
       </a>
-       &emsp;
-	    <a style="margin-left: 10px;" target="_blank" href="https://www.google.com">
-			 <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
+      <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/yusufie">
+			 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png">
       </a>
-       &emsp;
-      <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com">
-			 <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+	    <a style="margin-left: 10px;" target="_blank" href="https://www.freecodecamp.org/yusufie">
+			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png">
       </a>
-       &emsp;
+      <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/yusufie/">
+			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png">
+      </a>
+	    <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/yusufie">
+			 <img src="https://img.icons8.com/external-others-inmotus-design/40/000000/external-Code-round-icons-others-inmotus-design-4.png" >
+      </a>
+      <a style="margin-left: 10px;" target="_blank" href="https://github.com/yusufie">
+		   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+      </a>
 		  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com">
 			 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
       </a>
-       &emsp;
 		  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com">
 			 <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
       </a>
