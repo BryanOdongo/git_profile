@@ -12,23 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=yusufie&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-<a target="_blank" >
-  <img align="right" alt="GIF" src="./image/computer.gif" style="border-radius:25%">
-</a>
 
-- ❤️ A passionate Front-End Web Developer from Turkey &#127481;&#127479;
-
-- ✍️ I’m currently attending Front-End Web Development Bootcamp 
-    <a href="https://www.re-coded.com/" target="blank" style="color:yellow">re:coded</a>
-
-- 💪 I’m currently working on Front-End Web Development
-
-- 💚 I’m available for freelancing.
-
-- <p>
-    ✍️ I’m currently learning Reactjs & React-Native 
-    <a href="https://reactjs.org/" target="blank" style="color:yellow">React</a>
-  </p>
+<p align="center"> <a href="https://www.codewars.com/users/yusufie" target="_blank"><img align="center" src="https://www.codewars.com/users/yusufie/badges/large" /> </p>
 
 <a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -153,10 +138,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufie&theme=algolia&bg_color=050F2C&date_format=M%20j%5B%2C%20Y%5D" alt="yusufie" />
 
   <br />
-  <br />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufie&theme=algolia&card_width=500" alt="Yusufie Top Languages"/>
-  <br />
 
 </div>
 
@@ -207,26 +188,6 @@
 <br>
 
 <a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
-<br>
-<br>
-
-<h3 align="center" >
-
-  <p>Have a Smiley Day...😆 :</p>
-  <a style="" target="_blank" href="https://readme-jokes.vercel.app/api">
-		<img src="https://readme-jokes.vercel.app/api?bgColor=%23173c7c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2356ba0" >
-  </a>
-  <br>
-  <br>
-
-  <p>A Snake 🐍 Eating away my Contributions...😭</p>
-  <img src='https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg'>
-
-</h3>
-
-<a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 </a>
 <br>
@@ -242,3 +203,7 @@
 Credits: [Yusufie](https://github.com/yusufie)
 
 Last Edited on: 28/09/2022
+
+<a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
