@@ -1,10 +1,7 @@
-<h1 align="center">
-    <img src="./image/headergif.gif?raw=true" style="border-radius:40%">
-</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=28&duration=7000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front-End+Web+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=28&duration=7000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer" />
   </a>
 </p>
 
@@ -13,7 +10,24 @@
 </p>
 
 
-<p align="center"> <a href="https://www.codewars.com/users/yusufie" target="_blank"><img align="center" src="https://www.codewars.com/users/yusufie/badges/large" /> </p>
+<p align="center" >
+  <div align="center"  class="icons-social" style="margin-left: 10px;">
+      <a target="_blank" href="https://leetcode.com/yusufie/">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png">
+      </a>
+      <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/yusufie">
+			 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png">
+      </a>
+      <a target="_blank" href="https://www.freecodecamp.org/yusufie">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png">
+      </a>
+      <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19926018/yusufie">
+			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+      </a>
+      <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/yusufie" >
+      <img src="https://www.codewars.com/users/yusufie/badges/large" >
+  </div>
+</p>
 
 <a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -130,80 +144,16 @@
 
 <div align="center" >
 
-  <h2 align="center"> 
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="30"> 
-    Github Stats
-  </h2>
+  <h2 align="center"> Github Stats </h2>
    
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufie&theme=algolia&bg_color=050F2C&date_format=M%20j%5B%2C%20Y%5D" alt="yusufie" />
 
   <br />
 
-</div>
-
-<br>
-
-<a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
-
-<h3 align="center" > Connect with me
-  <br />
-
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-
-</h3>
-
-<p align="center" >
-  <div align="center"  class="icons-social" style="margin-left: 10px;">
-      <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yusuf-link/">
-			 <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-      </a>
-		  <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19926018/yusufie">
-			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-      </a>
-      <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/yusufie">
-			 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png">
-      </a>
-	    <a style="margin-left: 10px;" target="_blank" href="https://www.freecodecamp.org/yusufie">
-			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png">
-      </a>
-      <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/yusufie/">
-			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png">
-      </a>
-	    <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/yusufie">
-			 <img src="https://img.icons8.com/external-others-inmotus-design/40/000000/external-Code-round-icons-others-inmotus-design-4.png" >
-      </a>
-      <a style="margin-left: 10px;" target="_blank" href="https://github.com/yusufie">
-		   <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-      </a>
-		  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com">
-			 <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
-      </a>
-		  <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com">
-			 <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" >
-      </a>
-  </div>
-</p>
-<br>
-
-<a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
-</a>
-<br>
-
-<h2>
   <p align="left">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=%FFFFFF&size=16&duration=7000&lines=Support+Me+By+Starring+⭐+My+Repositories+👍+Thanks!" />
     </a>
   </p>
-</h2>
 
-Credits: [Yusufie](https://github.com/yusufie)
-
-Last Edited on: 28/09/2022
-
-<a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</a>
+</div>
