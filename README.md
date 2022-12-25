@@ -15,6 +15,9 @@
       <a style="margin-left: 10px;" target="_blank" href="https://coderbyte.com/profile/yusufie">
 			 <img src="./image/coderbyte.png" width="36px">
       </a>
+      <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/yusufie">
+			 <img src="./image/codewars.png" width="38px">
+      </a>
       <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/yusufie/">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png">
       </a>
@@ -24,8 +27,6 @@
       <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19926018/yusufie">
 			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
       </a>
-      <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/yusufie" >
-      <img src="https://www.codewars.com/users/yusufie/badges/large" >
   </div>
   <br />
 
@@ -122,7 +123,7 @@
 
 <div align="center" >
   <font size="5" > Github Stats </font>
-        
+  <br />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufie&theme=algolia&bg_color=050F2C&date_format=M%20j%5B%2C%20Y%5D" alt="yusufie" />
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
