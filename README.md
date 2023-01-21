@@ -32,11 +32,11 @@
 
 <div align="center">
   <a>
-    <img height="30" width="50" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+    <img height="20" width="40" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
   </a>
     <font size="5" >Languages and Tools</font>
   <a>
-    <img height="30" width="50" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
+    <img height="20" width="40" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
   </a>
 
 </div>
@@ -69,12 +69,6 @@
   <a href="https://nodejs.org/" target="_blank">
     <img alt="nodejs" src="https://img.shields.io/badge/node%20js-026E00?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius:10%">
   </a>
-  <a href="https://angularjs.org/" target="_blank">
-    <img alt="angularjs" src="https://img.shields.io/badge/angular%20js-DD1B16?style=for-the-badge&logo=angularjs&logoColor=white" style="border-radius:10%">
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-   <img alt="Vuejs" src="https://img.shields.io/badge/Vue%20js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" style="border-radius:10%">
-  </a>
   <a href="https://nextjs.org/" target="_blank">
    <img alt="nextjs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="border-radius:10%">
   </a>
@@ -83,12 +77,6 @@
   </a>
   <a href="https://expressjs.com/" target="_blank">
    <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="border-radius:10%">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:10%">
-  </a>
-  <a href="https://wordpress.com/" target="_blank">
-   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="border-radius:10%">
   </a>
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3F7CAD?style=for-the-badge&logo=python&logoColor=yellow" style="border-radius:10%">
