@@ -1,3 +1,9 @@
+<div align="center">
+  <a target="_blank" href="https://yusufie-portfolio.vercel.app/">
+    <img src="./image/portfolio.gif" />
+  </a>
+</div>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=24&duration=7000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer" />
