@@ -45,7 +45,7 @@
   <div align="center">
 
   <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" src="./icons/javascript-logo.svg" style="" height="36" width="36">
+    <img alt="JavaScript" src="./icons/javascript-logo.svg" style="" height="40" width="40">
   </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img alt="HTML5" src="./icons/html-logo.svg" style="" height="40" width="40">
@@ -80,10 +80,13 @@
   <a href="https://expressjs.com/" target="_blank">
    <img alt="Expressjs" src="./icons/expressjs-logo.svg" style="" height="40" width="40">
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+   <img alt="mongodb" src="./icons/mongodb-logo.svg" style="" height="40" width="40">
+  </a>
   <a href="https://graphql.org/" target="_blank">
     <img alt="graphql" src="./icons/graphql-logo.svg" style="" height="40" width="40">
   </a>
-  <a href="https://www.postgresql.org/">
+  <a href="https://www.w3schools.com/sql/">
     <img alt="SQL" src="./icons/sql-logo.svg" style="" height="40" width="40">
   </a>
     <a href="https://www.postgresql.org/">
@@ -94,9 +97,6 @@
   </a>
   <a href="https://www.figma.com/">
     <img alt="Figma" src="./icons/figma-logo.svg" style="" height="40" width="40">
-  </a>
-  <a href="https://www.canva.com/">
-    <img alt="Canva" src="./icons/canva-logo.svg" style="" height="40" width="40">
   </a>
   <a href="https://www.npmjs.com/">
     <img alt="npm" src="./icons/npm-logo.svg" style="" height="40" width="40">
