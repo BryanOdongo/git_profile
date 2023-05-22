@@ -16,41 +16,37 @@
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
       <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/yusufie">
-			 <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/40/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png">
+			 <img src="./icons/hackerrank-logo.svg" style="" height="40" width="40">
       </a>
       <a style="margin-left: 10px;" target="_blank" href="https://coderbyte.com/profile/yusufie">
-			 <img src="./image/coderbyte.png" width="36px">
+			 <img src="./image/coderbyte.png" style="" height="40" width="40">
       </a>
       <a style="margin-left: 10px;" target="_blank" href="https://www.codewars.com/users/yusufie">
-			 <img src="./image/codewars.png" width="38px">
+			 <img src="./image/codewars.png" style="" height="40" width="40">
       </a>
       <a style="margin-left: 10px;" target="_blank" href="https://leetcode.com/yusufie/">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png">
+        <img src="./image/leetcode-logo.png" style="" height="40" width="40">
       </a>
       <a style="margin-left: 10px;" target="_blank" href="https://www.freecodecamp.org/yusufie">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png">
+        <img src="./image/freecodecamp-logo.png" style="" height="40" width="40">
       </a>
       <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19926018/yusufie">
-			 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+			 <img src="./image/stack-overflow-logo.png" style="" height="40" width="40">
       </a>
   </div>
-  <br />
 
-<div align="center">
-  <a>
-    <img height="20" width="40" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
-  </a>
-    <font size="5" >Languages and Tools</font>
-  <a>
-    <img height="20" width="40" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif">
-  </a>
-
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <img height="20" width="40" src = "./image/tagscode.gif">
+  <h3 style="margin-left: 10px; margin-right: 10px;"> Languages and Tools </h3>
+  <img height="20" width="40" src = "./image/tagscode.gif">
 </div>
-
 
 <p align="center">
   <div align="center">
 
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" src="./icons/javascript-logo.svg" style="" height="36" width="36">
+  </a>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
     <img alt="HTML5" src="./icons/html-logo.svg" style="" height="40" width="40">
   </a>
@@ -66,32 +62,35 @@
   <a href="https://sass-lang.com/" target="_blank">
     <img alt="Sass" src="./icons/sass-logo.svg" style="" height="40" width="40">
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img alt="JavaScript" src="./icons/javascript-logo.svg" style="" height="40" width="40">
-  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img alt="Reactjs" src="./icons/react-logo.svg" style="" height="40" width="40">
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="nodejs" src="./icons/node-logo.svg" style="" height="40" width="40">
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
+    <a href="https://nextjs.org/" target="_blank">
    <img alt="nextjs" src="./icons/next-logo.svg" style="" height="40" width="40">
   </a>
   <a href="https://redux.js.org/" target="_blank">
    <img alt="reduxjs" src="./icons/redux-logo.svg" style="" height="40" width="40">
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="typescript" src="./icons/typescript-logo.svg" style="" height="40" width="40">
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="nodejs" src="./icons/node-logo.svg" style="" height="40" width="40">
+  </a>
   <a href="https://expressjs.com/" target="_blank">
    <img alt="Expressjs" src="./icons/expressjs-logo.svg" style="" height="40" width="40">
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="./icons/python-logo.svg" style="" height="40" width="40">
+  <a href="https://graphql.org/" target="_blank">
+    <img alt="graphql" src="./icons/graphql-logo.svg" style="" height="40" width="40">
   </a>
   <a href="https://www.postgresql.org/">
     <img alt="SQL" src="./icons/sql-logo.svg" style="" height="40" width="40">
   </a>
     <a href="https://www.postgresql.org/">
     <img alt="SQL" src="./icons/postgresql-logo.svg" style="" height="40" width="40">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="git" src="./icons/git-logo.svg" style="" height="40" width="40">
   </a>
   <a href="https://www.figma.com/">
     <img alt="Figma" src="./icons/figma-logo.svg" style="" height="40" width="40">
@@ -102,8 +101,8 @@
   <a href="https://www.npmjs.com/">
     <img alt="npm" src="./icons/npm-logo.svg" style="" height="40" width="40">
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="git" src="./icons/git-logo.svg" style="" height="40" width="40">
+  <a href="https://www.postman.com/" target="_blank">
+    <img alt="postman" src="./icons/postman-logo.svg" style="" height="40" width="40">
   </a>
   <a href="https://www.github.com">
     <img alt="GitHub" src="./icons/github-logo.svg" style="" height="40" width="40">
@@ -111,7 +110,7 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" src="./icons/vscode-logo.svg" style="" height="40" width="40">
   </a>
-  <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  <img src="./image/divider.gif">
   </div>
 </p>
 
