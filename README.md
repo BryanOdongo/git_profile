@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=yusufie&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
+<div align="center"  class="icons-social" style="display: flex; align-items: center; justify-content: space-evenly;">
       <a style="margin-left: 10px;" target="_blank" href="https://www.hackerrank.com/yusufie">
 			 <img src="./icons/hackerrank-logo.svg" style="" height="40" width="40">
       </a>
@@ -37,11 +37,8 @@
   <br/>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <p align="center">
     <img style="display: inline;" src = "./image/tagscode.gif" height="20" width="40">
     <h3 style="margin: 10px;"> Languages and Tools </h3>
-    <img style="display: inline;" src = "./image/tagscode.gif" height="20" width="40">
-  </p>
 </div>
 
 <p align="center">
