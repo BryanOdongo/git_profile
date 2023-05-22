@@ -34,11 +34,14 @@
 			 <img src="./image/stack-overflow-logo.png" style="" height="40" width="40">
       </a>
   </div>
+  <br/>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img height="20" width="40" src = "./image/tagscode.gif">
-  <h3 style="margin-left: 10px; margin-right: 10px;"> Languages and Tools </h3>
-  <img height="20" width="40" src = "./image/tagscode.gif">
+  <p align="center">
+    <img style="display: inline;" src = "./image/tagscode.gif" height="20" width="40">
+    <h3 style="margin: 10px;"> Languages and Tools </h3>
+    <img style="display: inline;" src = "./image/tagscode.gif" height="20" width="40">
+  </p>
 </div>
 
 <p align="center">
