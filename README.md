@@ -68,8 +68,8 @@
     <a href="https://nextjs.org/" target="_blank">
    <img alt="nextjs" src="./icons/next-logo.svg" style="" height="40" width="40">
   </a>
-  <a href="https://redux.js.org/" target="_blank">
-   <img alt="reduxjs" src="./icons/redux-logo.svg" style="" height="40" width="40">
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+   <img alt="zustand" src="./icons/zustand-logo.png" style="" height="40" width="40">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="typescript" src="./icons/typescript-logo.svg" style="" height="40" width="40">
