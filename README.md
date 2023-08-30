@@ -1,5 +1,5 @@
 <div align="center">
-  <a target="_blank" href="https://portfolio-yusufie.vercel.app/">
+  <a target="_blank" href="https://yusufie.vercel.app/">
     <img src="./image/portfolio.gif" />
   </a>
 </div>
