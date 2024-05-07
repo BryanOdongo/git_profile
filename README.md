@@ -1,14 +1,7 @@
 <div align="center">
-  <a target="_blank" href="https://yusufie.vercel.app/">
-    <img src="./image/portfolio.gif" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=540&height=96&lines=Welcome+to+my+rittle+rearning+corner;where+I+scaffold%2C+rearn%2C+and+host+my+;coding+journey." alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=24&duration=7000&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Developer" />
-  </a>
-</p>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=yusufie&label=Profile+Views&color=brightgreen&style=flat-square" alt="views on github" />
